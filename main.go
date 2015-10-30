@@ -15,7 +15,6 @@
  * limitations under the License.
  */
 
-
 // Package main provides a command line tool, walter.
 //
 // See the usage: https://github.com/walter-cd/walter
@@ -26,10 +25,10 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/recruit-tech/walter/config"
-	"github.com/recruit-tech/walter/log"
-	"github.com/recruit-tech/walter/version"
-	"github.com/recruit-tech/walter/walter"
+	"github.com/walter-cd/walter/config"
+	"github.com/walter-cd/walter/log"
+	"github.com/walter-cd/walter/version"
+	"github.com/walter-cd/walter/walter"
 )
 
 func main() {
